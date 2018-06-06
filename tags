@@ -1,0 +1,23 @@
+App	/Users/matheus/www/talks/animations/index.js	/App/;"	v	lineno:2
+App	/Users/matheus/www/talks/animations/src/App.js	/App/;"	f	lineno:23	type:void function()
+AppRegistry	/Users/matheus/www/talks/animations/index.js	/AppRegistry/;"	v	lineno:1
+Component	/Users/matheus/www/talks/animations/src/App.js	/Component/;"	v	lineno:7
+Component	/Users/matheus/www/talks/animations/src/Components/Home.js	/Component/;"	v	lineno:1
+HomeComponent	/Users/matheus/www/talks/animations/src/Components/Home.js	/HomeComponent/;"	f	lineno:4	type:void function()
+HomeComponent	/Users/matheus/www/talks/animations/src/Navigation/index.js	/HomeComponent/;"	v	lineno:2
+Platform	/Users/matheus/www/talks/animations/src/App.js	/Platform/;"	v	lineno:9
+Props	/Users/matheus/www/talks/animations/src/App.js	/Props/;"	v	lineno:22
+React	/Users/matheus/www/talks/animations/src/App.js	/React/;"	v	lineno:7
+React	/Users/matheus/www/talks/animations/src/Components/Home.js	/React/;"	v	lineno:1
+StyleSheet	/Users/matheus/www/talks/animations/src/App.js	/StyleSheet/;"	v	lineno:10
+Stylesheet	/Users/matheus/www/talks/animations/src/Components/Home.js	/Stylesheet/;"	v	lineno:2
+View	/Users/matheus/www/talks/animations/src/App.js	/View/;"	v	lineno:12
+View	/Users/matheus/www/talks/animations/src/Components/Home.js	/View/;"	v	lineno:2
+const	/Users/matheus/www/talks/animations/src/App.js	/const/;"	f	lineno:41	namespace:App.prototype	type:void function(?)
+createStackNavigator	/Users/matheus/www/talks/animations/src/Navigation/index.js	/createStackNavigator/;"	v	lineno:1
+instructions	/Users/matheus/www/talks/animations/src/App.js	/instructions/;"	v	lineno:15
+prototype	/Users/matheus/www/talks/animations/src/App.js	/class App extends Component<Props> \{/;"	v	lineno:23	namespace:App
+prototype	/Users/matheus/www/talks/animations/src/Components/Home.js	/class HomeComponent extends Component \{/;"	v	lineno:4	namespace:HomeComponent
+render	/Users/matheus/www/talks/animations/src/Components/Home.js	/render/;"	f	lineno:5	namespace:HomeComponent.prototype	type:boolean function()
+style	/Users/matheus/www/talks/animations/src/App.js	/style/;"	v	lineno:26	type:boolean
+styles	/Users/matheus/www/talks/animations/src/Components/Home.js	/styles/;"	v	lineno:12	type:boolean
